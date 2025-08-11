@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Petspawner1/VISUALSCRIPT/refs/heads/main/Loadingscreen"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Fe4SHXSSW15fLJgF/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Petspawner1/Visualrandomizer/refs/heads/main/Eggrandomizer"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/G3YZ3fTex7ndA1iy/raw", true))()
